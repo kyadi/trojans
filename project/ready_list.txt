@@ -1,0 +1,13 @@
+0|j04| DA1qI81kC2I1mE4E|encrypt|0.000013
+0|j05|darline|decrypt|0.000029
+0|j01|darlinedarline|double|0.000016
+0|j02|tew|reverse|0.000003
+0|j06|a|replace|0.000025
+0|j06|2|replace|0.000015
+0|j06|g|replace|0.000016
+0|j03|1,2|delete|0.000015
+0|j03|t|delete|0.000013
+0|j03|t|delete|0.000009
+0|j03|t|delete|0.000005
+0|j06|wold|replace|0.000020
+0|j03|dalne|delete|0.000016
